@@ -1,3 +1,5 @@
+.cache
+.local
 eln-cache
 .cask
 elpa
